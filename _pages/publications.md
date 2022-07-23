@@ -19,10 +19,7 @@ permalink: /publications/
  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px", height="100px", style="float: left" /> -->
 
 {% if publi.number_image == 1 %}
-  <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px", height="100px", style="float: left" />
-  </ul>
- <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px", height="100px", style="float: left" /> -->
+   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200px", height="100px", style="float: left" />
 {% endif %}
 
 

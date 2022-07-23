@@ -2,7 +2,7 @@
 - title: Data-correlation-aware unsupervised deep-learning model for anomaly detection in cyber-physical systems
   image: DataCorrAware.png
   description: 
-  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Ruidong Wang, Zygmunt J. Haas
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Ruidong Wang, Zygmunt J. Haas
   venue: IEEE Internet of Things Journal, 2022
   number_link: 1
   link1:
@@ -13,7 +13,7 @@
 - title: Sample-correlation-aware unsupervised deep anomaly detection model (基于样本关联感知的无监督深度异常检测模型)
   image: SampleCorrAware.png
   description: 
-  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Ruidong Wang, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,Fengbin Zhang
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Ruidong Wang, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,Fengbin Zhang
   venue: Chinese Journal of Computers (计算机学报), 2021
   number_link: 1
   link1:
@@ -25,7 +25,7 @@
 - title: Multi-source-inspired immune detector generation and detection in neighborhood shape-space (邻域形态空间多源免疫检测器生成与检测)
   image: MulSouInspired.png
   description: 
-  authors: Jiawei Wu, <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Zhiyu Yao, Fengbin Zhang
+  authors: Jiawei Wu, <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Zhiyu Yao, Fengbin Zhang
   venue: Journal of Software (软件学报), 2021
   number_link: 1
   link1:
@@ -36,7 +36,7 @@
 - title: Deep adversarial learning latent representation distribution model for anomaly detection (基于深度对抗学习潜在表示分布的异常检测模型)
   image: DeepAdLearning.png
   description: 
-  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Han Liu, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Han Liu, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang
   venue: Acta Electronica Sinica (电子学报)
   number_link: 1
   link1:
@@ -49,7 +49,7 @@
 - title: Multisource neighborhood immune detector adaptive model for anomaly detection
   image: MulNeiImmune.png
   description: 
-  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Zhiyu Yao, Fengbin Zhang
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Zhiyu Yao, Fengbin Zhang
   venue: IEEE Transactions on Evolutionary Computation, 2021
   number_link: 1
   link1:
@@ -60,9 +60,9 @@
 
 
 - title: An adaptive artificial-fish-swarm-inspired fuzzy C-means algorithm
-  image: None
+ 
   description: 
-  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Fengbin Zhang
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Fengbin Zhang
   venue: Neural Computing and Applications, 2020
   number_link: 1
   link1:
@@ -73,9 +73,9 @@
 
 
 - title: CC-CSA:A culture&chaos-inspired clonal selection algorithm for abnormal detection
-  image: None
+
   description: 
-  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Ruidong Wang, Fengbin Zhang, Yuezhongyi Sun
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Ruidong Wang, Fengbin Zhang, Yuezhongyi Sun
   venue: Journal of Intelligent & Fuzzy Systems, 2020
   number_link: 1
   link1:
@@ -86,7 +86,7 @@
 - title: Correlation-aware Deep Generative Model for Unsupervised Anomaly Detection
   image: CorrAwareDeepGener.png
   description: 
-  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,  Fengbin Zhang, Ruidong Wang,<strong>[Liang Xi](https://liangxi.github.io/)</strong>, Zuoyong Li
+  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,  Fengbin Zhang, Ruidong Wang,<strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Zuoyong Li
   venue: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD2020 (acceptance rate:21%)
   number_link: 1
   link1:
@@ -97,7 +97,7 @@
 - title: Anomaly detection algorithm based on FCM with adaptive artificial fish-swarm (基于自适应人工鱼群FCM的异常检测算法)
   image: Anomaly.png
   description: 
-  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Yong Wang, Fengbin Zhang
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Yong Wang, Fengbin Zhang
   venue: Journal of Computer Research and Development (计算机研究与发展), 2019
   number_link: 1
   link1:
@@ -105,9 +105,9 @@
     display: paper
 
 - title: Immune detector optimized generation algorithm based on locally linear embedding (基于局部线性嵌入的免疫检测器优化生成算法)
-  image: None
+  
   description: 
-  authors: <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Tao Jiang, Fengbin Zhang
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Tao Jiang, Fengbin Zhang
   venue: Control and Decision (控制与决策), 2019
   number_link: 1
   link1:
@@ -117,7 +117,7 @@
 - title: LeukocyteMask:An automated localization and segmentation method for leukocyte in blood smear images using deep neural networks
   image: AutoLocal.png
   description: 
-  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, <strong>[Liang Xi](https://liangxi.github.io/)</strong>, Zuoyong Li, Guanghai Liu, Yong Xu 
+  authors: <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang, <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Zuoyong Li, Guanghai Liu, Yong Xu 
   venue: Journal of biophotonics, 2019
   number_link: 1
   link1:

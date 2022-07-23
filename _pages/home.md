@@ -43,7 +43,7 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
 </div>
 
-<div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:left">
+<div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <!-- <ul style="overflow: hidden">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile_pic.jpg" class="img-responsive" width="100%" />

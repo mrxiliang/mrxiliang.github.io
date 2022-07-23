@@ -60,7 +60,7 @@
 
 
 - title: An adaptive artificial-fish-swarm-inspired fuzzy C-means algorithm
- 
+  image: None
   description: 
   authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Fengbin Zhang
   venue: Neural Computing and Applications, 2020
@@ -73,7 +73,7 @@
 
 
 - title: CC-CSA:A culture&chaos-inspired clonal selection algorithm for abnormal detection
-
+  image: None
   description: 
   authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Ruidong Wang, Fengbin Zhang, Yuezhongyi Sun
   venue: Journal of Intelligent & Fuzzy Systems, 2020
@@ -105,7 +105,7 @@
     display: paper
 
 - title: Immune detector optimized generation algorithm based on locally linear embedding (基于局部线性嵌入的免疫检测器优化生成算法)
-  
+  image: None
   description: 
   authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Tao Jiang, Fengbin Zhang
   venue: Control and Decision (控制与决策), 2019

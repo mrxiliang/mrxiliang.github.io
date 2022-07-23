@@ -71,8 +71,9 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 <div class="col-sm-11 clearfix">
  <div class="well">
  <pubtit>{{ publi.title }}</pubtit>
-
+ {% if publi.number_image == 1 %}
  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="120px" style="float: left" />
+ {% endif %}
 
  <p>{{ publi.description }}</p>
 

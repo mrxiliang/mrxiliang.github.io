@@ -45,15 +45,13 @@ My work lies at the intersection of Computer Vision and Machine Learning. Specif
 
 <div class="col-sm-4" style="display:table-cell; vertical-align:middle; text-align:left">
 
-  <ul style="overflow: hidden">
+  <!-- <ul style="overflow: hidden">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profile_pic.jpg" class="img-responsive" width="100%" />
-  </ul>
+  </ul> -->
 
   <!-- <br clear="all" /> -->
 
-  <A HREF="mailto:&#105;&#115;&#102;&#97;&#110;&#104;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
-  &#105;&#115;&#102;&#97;&#110;&#104;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;
-  </A> <br>
+  xiliang@hrbust.edu.cn <br>
   Harbin University of Science and Technology <br>
   52 Xuefu Road<br>
   Harbin, China.<br>

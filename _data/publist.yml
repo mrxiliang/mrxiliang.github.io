@@ -5,10 +5,13 @@
   description: 
   authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Zichao Yun, Han Liu, Ruidong Wang, Xunhua Huang, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>
   venue: Engineering Applications of Artificial Intelligence, 2022
-  number_link: 1
+  number_link: 2
   link1:
     url: https://www.sciencedirect.com/science/article/pii/S0952197622003633?via%3Dihub
     display: paper
+  link2: 
+    url: https://github.com/mrxiliang/sstsc.git
+    display: code
 
 - title: Data-correlation-aware unsupervised deep-learning model for anomaly detection in cyber-physical systems
   image: DataCorrAware.png

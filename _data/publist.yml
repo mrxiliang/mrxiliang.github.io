@@ -1,3 +1,14 @@
+- title: Graph-embedding-inspired article recommendation model
+  image: Graph-embedding-inspired.png
+  number_image: 1
+  description: 
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Qiaodan Hu, Han Liu
+  venue: Expert Systems with Applications, 2022
+  number_link: 1
+  link1:
+    url: https://mrxiliang.github.io/https://doi.org/10.1016/j.eswa.2022.119100
+    display: paper
+
 
 - title: Semi-supervised time series classification model with self-supervised learning
   image: Semi-Sup_Time.png

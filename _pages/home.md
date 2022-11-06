@@ -13,7 +13,7 @@ permalink: /
 <div class="col-sm-8">
 
 
-I am now an associate professor at the School of Computer Science and Technology, Harbin University of Science and Technology. I received my Ph.D. degree in Computer Applied Technology from the Harbin University of Science and Technology, Harbin, China, in 2012. I was also affiliated with the University of Texas at Dallas as a visiting scholar during Nov. 2019--Nov. 2020. I was a recipient of the National Science Foundations of China in 2012, the Natural Science Foundation of Heilongjiang Province in 2018, the Innovative Talents project of Common University in Heilongjiang Province in 2015, etc.
+I am now an associate professor at the School of Computer Science and Technology, Harbin University of Science and Technology. I received my Ph.D. degree in Computer Applied Technology from the Harbin University of Science and Technology, Harbin, China, in 2012. I was also affiliated with the University of Texas at Dallas as a visiting scholar during Nov. 2019--Nov. 2020. I was a recipient of the National Science Foundation of China in 2012, the Natural Science Foundations of Heilongjiang Province in 2018 and 2022, the Innovative Talents project of Common University in Heilongjiang Province in 2015, etc.
 
 <h4>Research Interests </h4>
 

@@ -1,9 +1,35 @@
+- title: Unsupervised multimodal domain adversarial network for time series classification
+  image: Unsupervised-multimodal.png
+  number_image: 1
+  description: 
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Yujia Liang, Xunhua Huang, Han Liu, Ao Li
+  venue: Information Sciences, 2023
+  number_link: 1
+  link1:
+    url: https://doi.org/10.1016/j.ins.2022.12.069
+    display: paper
+
+- title: Unsupervised dimension-contribution-aware embeddings transformation for anomaly detection
+  image: Unsupervised-dimension.png
+  number_image: 1
+  description: 
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Chenchen Liang, Han Liu, Ao Li
+  venue: Knowledge-Based Systems, 2023
+  number_link: 2
+  link1:
+    url: https://doi.org/10.1016/j.knosys.2022.110209
+    display: paper
+  link2: 
+    url: https://github.com/mrxiliang/dcetad.git
+    display: code
+
+
 - title: Graph-embedding-inspired article recommendation model
   image: Graph-embedding-inspired.png
   number_image: 1
   description: 
   authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Qiaodan Hu, Han Liu
-  venue: Expert Systems with Applications, 2022
+  venue: Expert Systems with Applications, 2023
   number_link: 1
   link1:
     url: https://doi.org/10.1016/j.eswa.2022.119100
@@ -66,7 +92,7 @@
   number_image: 1
   description: 
   authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Han Liu, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>, Fengbin Zhang
-  venue: Acta Electronica Sinica (电子学报)
+  venue: Acta Electronica Sinica (电子学报), 2021
   number_link: 1
   link1:
     url: https://www.ejournal.org.cn/CN/10.12263/DZXB.20200970

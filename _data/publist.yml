@@ -1,3 +1,14 @@
+- title: Appending-inspired multivariate time series association fusion for tool condition monitoring
+  image: AATCM.png
+  number_image: 1
+  description: 
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Wei Wang, Jingyi Chen, Xuefeng Wu
+  venue: Journal of Intelligent Manufacturing, 2023
+  number_link: 1
+  link1:
+    url: https://link.springer.com/article/10.1007/s10845-023-02202-4
+    display: paper
+
 - title: Unsupervised multimodal domain adversarial network for time series classification
   image: Unsupervised-multimodal.png
   number_image: 1

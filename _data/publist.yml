@@ -1,3 +1,14 @@
+- title: Adaptive-correlation-aware unsupervised deep learning for anomaly detection in cyber-physical systems
+  image: Adaptive-Correlation-aware.png
+  number_image: 1
+  description:
+  authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Dehua Miao, Menghan Li, Ruidong Wang, Han Liu, Xunhua Huang
+  venue:  IEEE Transactions on Dependable and Secure Computing, 2023
+  number_link: 1
+  link1:
+    url: https://doi.org/10.1109/TDSC.2023.3319701
+    display: paper
+
 - title: Appending-inspired multivariate time series association fusion for tool condition monitoring
   image: AATCM.png
   number_image: 1

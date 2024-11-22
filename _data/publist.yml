@@ -56,6 +56,7 @@
     url: https://doi.org/10.1016/j.neunet.2024.106709
     display: paper
 
+
 - title: Adaptive-correlation-aware unsupervised deep learning for anomaly detection in cyber-physical systems
   image: Adaptive-Correlation-aware.png
   number_image: 1

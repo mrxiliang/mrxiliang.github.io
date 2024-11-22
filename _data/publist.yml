@@ -2,7 +2,7 @@
   image: OpenFi.png
   number_image: 1
   description:
-  authors: Han Liu, <strong>[Liang Xi*](https://github.com/mrxiliang), Wei Wang, Fengbin Zhang*, <strong>[Zygmunt J. Haas](https://profiles.utdallas.edu/haas).
+  authors: Han Liu, <strong>[Liang Xi*](https://github.com/mrxiliang)</strong>, Wei Wang, Fengbin Zhang*, <strong>[Zygmunt J. Haas](https://profiles.utdallas.edu/haas)</strong>.
   venue:  IEEE Transactions on Network Science and Engineering, 2024
   number_link: 1
   link1:
@@ -13,7 +13,7 @@
   image: CoCo.png
   number_image: 1
   description:
-  authors: <strong>[Ruidong Wang](https://github.com/eighto6),  <strong>[Liang Xi*](https://github.com/mrxiliang), Fengbin Zhang, Haoyi Fan Xu Yu*, Lei Liu, Shui Yu, Victor C. M. Leung. 
+  authors: <strong>[Ruidong Wang](https://github.com/eighto6)</strong>,  <strong>[Liang Xi*](https://github.com/mrxiliang)</strong>, Fengbin Zhang, Haoyi Fan Xu Yu*, Lei Liu, Shui Yu, Victor C. M. Leung. 
   venue:  IEEE Transactions on Knowledge and Data Engineering, 2024
   number_link: 2
   link1:
@@ -27,7 +27,7 @@
   image: ExTAD.png
   number_image: 1
   description:
-  authors: Han Liu, <strong>[Liang Xi*](https://github.com/mrxiliang), Minghao Gu, Sizhe Huang, Chaoyang Sheng, Fengbin Zhang. 
+  authors: Han Liu, <strong>[Liang Xi*](https://github.com/mrxiliang)</strong>, Minghao Gu, Sizhe Huang, Chaoyang Sheng, Fengbin Zhang. 
   venue:  IEEE Sensors Journal, 2024
   number_link: 1
   link1:

@@ -1,4 +1,4 @@
-- title: OpenFi: Open-set WiFi human sensing via virtual embedding confidence-aware. 
+- title: OpenFi:Open-set WiFi human sensing via virtual embedding confidence-aware. 
   image: OpenFi.png
   number_image: 1
   description:
@@ -23,7 +23,7 @@
     url: https://github.com/eighto6/CoCo
     display: code
 
-- title: ExTAD: Embedding exchange inspired unsupervised time-series anomaly detection. 
+- title: ExTAD:Embedding exchange inspired unsupervised time-series anomaly detection. 
   image: ExTAD.png
   number_image: 1
   description:

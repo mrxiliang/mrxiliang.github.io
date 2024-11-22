@@ -13,7 +13,7 @@
   image: CoCo.png
   number_image: 1
   description:
-  authors: <strong>[Ruidong Wang](https://github.com/eighto6)</strong>, <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Fengbin Zhang, Haoyi Fan Xu Yu*, Lei Liu, Shui Yu, Victor C. M. Leung. 
+  authors: <strong>[Ruidong Wang](https://github.com/eighto6)</strong>, <strong>[Liang Xi\*](https://mrxiliang.github.io/)</strong>, Fengbin Zhang, Haoyi Fan Xu Yu*, Lei Liu, Shui Yu, Victor C. M. Leung. 
   venue:  IEEE Transactions on Knowledge and Data Engineering, 2024
   number_link: 2
   link1:
@@ -27,7 +27,7 @@
   image: ExTAD.png
   number_image: 1
   description:
-  authors: Han Liu, <strong>[Liang Xi](https://mrxiliang.github.io/)*</strong>, Minghao Gu, Sizhe Huang, Chaoyang Sheng, Fengbin Zhang. 
+  authors: Han Liu, <strong>[Liang Xi\*](https://mrxiliang.github.io/)</strong>, Minghao Gu, Sizhe Huang, Chaoyang Sheng, Fengbin Zhang. 
   venue:  IEEE Sensors Journal, 2024
   number_link: 1
   link1:
@@ -49,7 +49,7 @@
   image: BCSST.png
   number_image: 1
   description:
-  authors: Han Liu, Fengbin Zhang*, Xunhua Huang, <strong>[Ruidong Wang](https://github.com/eighto6)</strong>, <strong>[Liang Xi](https://mrxiliang.github.io/)*</strong>
+  authors: Han Liu, Fengbin Zhang*, Xunhua Huang, <strong>[Ruidong Wang](https://github.com/eighto6)</strong>, <strong>[Liang Xi\*](https://mrxiliang.github.io/)</strong>
   venue:  Neural Networks, 2024
   number_link: 1
   link1:

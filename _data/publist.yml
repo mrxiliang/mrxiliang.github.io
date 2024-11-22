@@ -1,3 +1,61 @@
+- title: OpenFi: Open-set WiFi human sensing via virtual embedding confidence-aware. 
+  image: OpenFi.png
+  number_image: 1
+  description:
+  authors: Han Liu, <strong>[Liang Xi*](https://github.com/mrxiliang), Wei Wang, Fengbin Zhang*, <strong>[Zygmunt J. Haas](https://profiles.utdallas.edu/haas).
+  venue:  IEEE Transactions on Network Science and Engineering, 2024
+  number_link: 1
+  link1:
+    url: https://doi.org/10.1109/tnse.2024.3496496
+    display: paper
+
+- title: CoCo:Context correlation discrepancy for graph anomaly detection. 
+  image: CoCo.png
+  number_image: 1
+  description:
+  authors: <strong>[Ruidong Wang](https://github.com/eighto6),  <strong>[Liang Xi*](https://github.com/mrxiliang), Fengbin Zhang, Haoyi Fan Xu Yu*, Lei Liu, Shui Yu, Victor C. M. Leung. 
+  venue:  IEEE Transactions on Knowledge and Data Engineering, 2024
+  number_link: 2
+  link1:
+    url: https://doi.org/10.1109/tkde.2024.3488375
+    display: paper
+  link2: 
+    url: https://github.com/eighto6/CoCo
+    display: code
+
+- title: ExTAD: Embedding exchange inspired unsupervised time-series anomaly detection. 
+  image: ExTAD.png
+  number_image: 1
+  description:
+  authors: Han Liu, <strong>[Liang Xi*](https://github.com/mrxiliang), Minghao Gu, Sizhe Huang, Chaoyang Sheng, Fengbin Zhang. 
+  venue:  IEEE Sensors Journal, 2024
+  number_link: 1
+  link1:
+    url: https://doi.org/10.1109/jsen.2024.3480133
+    display: paper
+
+- title: Adaptive spatio-temporal relation based transformer for traffic flow prediction. 
+  image: ASTR.png
+  number_image: 1
+  description:
+  authors: <strong>[Ruidong Wang](https://github.com/eighto6)</strong>, <strong>[Liang Xi*](https://github.com/mrxiliang)</strong>, Jinlin Ye, Fengbin Zhang, Xu Yu*, Lingwei Xu. 
+  venue:  IEEE Transactions on Vehicular Technology, 2024
+  number_link: 1
+  link1:
+    url: https://doi.org/10.1109/tvt.2024.3390997
+    display: paper
+
+- title: Bidirectional consistency with temporal-aware for semi-supervised time series classification.
+  image: BCSST.png
+  number_image: 1
+  description:
+  authors: Han Liu, Fengbin Zhang*, Xunhua Huang, <strong>[Ruidong Wang](https://github.com/eighto6)</strong>, <strong>[Liang Xi*](https://mrxiliang.github.io/)</strong>
+  venue:  Neural Networks, 2024
+  number_link: 1
+  link1:
+    url: https://doi.org/10.1016/j.neunet.2024.106709
+    display: paper
+
 - title: Adaptive-correlation-aware unsupervised deep learning for anomaly detection in cyber-physical systems
   image: Adaptive-Correlation-aware.png
   number_image: 1

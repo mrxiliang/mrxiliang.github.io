@@ -2,7 +2,7 @@
   image: OpenFi.png
   number_image: 1
   description:
-  authors: Han Liu, <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Wei Wang, Fengbin Zhang*, <strong>[Zygmunt J. Haas](https://profiles.utdallas.edu/haas)</strong>.
+  authors: Han Liu, <strong>[Liang Xi\*](https://mrxiliang.github.io/)</strong>, Wei Wang, Fengbin Zhang*, <strong>[Zygmunt J. Haas](https://profiles.utdallas.edu/haas)</strong>.
   venue:  IEEE Transactions on Network Science and Engineering, 2024
   number_link: 1
   link1:
@@ -38,7 +38,7 @@
   image: ASTR.png
   number_image: 1
   description:
-  authors: <strong>[Ruidong Wang](https://github.com/eighto6)</strong>, <strong>[Liang Xi](https://mrxiliang.github.io/)*</strong>, Jinlin Ye, Fengbin Zhang, Xu Yu*, Lingwei Xu. 
+  authors: <strong>[Ruidong Wang](https://github.com/eighto6)</strong>, <strong>[Liang Xi\*](https://mrxiliang.github.io/)</strong>, Jinlin Ye, Fengbin Zhang, Xu Yu*, Lingwei Xu. 
   venue:  IEEE Transactions on Vehicular Technology, 2024
   number_link: 1
   link1:

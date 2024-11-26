@@ -1,16 +1,20 @@
 # encoding: utf-8
 - date: Dec. 2022
-  headline: Source code release at <a href="https://github.com/mrxiliang/dcetad.git"> github </a> for our work of “Unsupervised dimension-contribution-aware embeddings transformation for anomaly detection”.
+  headline: Source code release at <a href="https://github.com/mrxiliang/dcetad.git"> github </a> for our work of "Unsupervised dimension-contribution-aware embeddings transformation for anomaly detection".
+
+
+- date: Nov. 2022
+  headline: Source code release at <a href="https://github.com/eighto6/CoCo"> github </a> for our work of "CoCo:Context correlation discrepancy for graph anomaly detection".
 
 
 - date: Aug. 2022
-  headline: Paper on “Semi-supervised time series classification model with self-supervised learning” has been accepted for publication in <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence </a> .
+  headline: Paper on "Semi-supervised time series classification model with self-supervised learning" has been accepted for publication in <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence </a> .
 
 - date: Jul. 2022
-  headline:  Source code release at <a href="https://github.com/mrxiliang/sstsc.git"> github </a> for our work of “Semi-supervised time series classification model with self-supervised learning”.
+  headline:  Source code release at <a href="https://github.com/mrxiliang/sstsc.git"> github </a> for our work of "Semi-supervised time series classification model with self-supervised learning".
 
 - date: Jul. 2022
-  headline: Paper on “Semi-supervised time series classification model with self-supervised learning” will be accepted for publication in <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence </a> after a revision.
+  headline: Paper on "Semi-supervised time series classification model with self-supervised learning" will be accepted for publication in <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence">Engineering Applications of Artificial Intelligence </a> after a revision.
 
 - date: Jul. 2022
   headline: Join us at the <a href="https://5gwn.eai-conferences.org/2022/">5th EAI International Conference on 6G for Future Wireless Networks </a> in December(Full Paper Submission deadline:Sep. 1, 2022)!

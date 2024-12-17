@@ -1,3 +1,14 @@
+- title: NMFAD:Neighbor-aware mask-filling attributed network anomaly detection.
+  image: NMFAD.png
+  number_image: 1
+  description:
+  authors: <strong>[Liang Xi\*](https://mrxiliang.github.io/)</strong>, Runze Li, Menghan Li, Dehua Miao,<strong>[Ruidong Wang\*](https://github.com/eighto6)</strong> <strong>[Zygmunt J. Haas](https://profiles.utdallas.edu/haas)</strong>.
+  venue:  IEEE Transactions on Information Forensics and Security, 2024
+  number_link: 1
+  link1:
+    url: https://doi.org/10.1109/TIFS.2024.3516570
+    display: paper
+
 - title: OpenFi:Open-set WiFi human sensing via virtual embedding confidence-aware. 
   image: OpenFi.png
   number_image: 1

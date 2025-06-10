@@ -1,3 +1,17 @@
+- title: MGTC:Multi-granularity temporal aware time series classification.
+  image: MGTC.png
+  number_image: 1
+  description:
+  authors: <strong>[Liang Xi\*](https://mrxiliang.github.io/)</strong>, Wei Wang, Han Liu, Jingqi Pan.
+  venue:  IEEE Transactions on Automation Science and Engineering, 2025
+  number_link: 1
+  link1:
+    url: https://doi.org/10.1109/TASE.2025.3574034
+    display: paper
+  link2: 
+    url: https://github.com/mrxiliang/MGTC
+    display: code
+
 - title: NMFAD:Neighbor-aware mask-filling attributed network anomaly detection.
   image: NMFAD.png
   number_image: 1
@@ -154,12 +168,12 @@
     display: paper
 
 
-- title: Sample-correlation-aware unsupervised deep anomaly detection model (基于样本关联感知的无监督深度异常检测模型)
+- title: Sample-correlation-aware unsupervised deep anomaly detection model (基于样本关联感知的无监督深度异常棢�测模垄1�7)
   image: SampleCorrAware.png
   number_image: 1
   description: 
   authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Ruidong Wang, <strong>[Haoyi Fan](https://haoyfan.github.io/)</strong>,Fengbin Zhang
-  venue: Chinese Journal of Computers (计算机学报), 2021
+  venue: Chinese Journal of Computers (计算机学抄1�7), 2021
   number_link: 1
   link1:
     url: http://cjc.ict.ac.cn/qwjs/view.asp?id=5556
@@ -167,7 +181,7 @@
 
 
 
-- title: Multi-source-inspired immune detector generation and detection in neighborhood shape-space (邻域形态空间多源免疫检测器生成与检测)
+- title: Multi-source-inspired immune detector generation and detection in neighborhood shape-space (邻域形��空间多源免疫检测器生成与检浄1�7)
   image: MulSouInspired.png
   number_image: 1
   description: 
@@ -179,7 +193,7 @@
     display: paper
   
 
-- title: Deep adversarial learning latent representation distribution model for anomaly detection (基于深度对抗学习潜在表示分布的异常检测模型)
+- title: Deep adversarial learning latent representation distribution model for anomaly detection (基于深度对抗学习潜在表示分布的异常检测模垄1�7)
   image: DeepAdLearning.png
   number_image: 1
   description: 
@@ -245,7 +259,7 @@
     display: paper
 
 
-- title: Anomaly detection algorithm based on FCM with adaptive artificial fish-swarm (基于自适应人工鱼群FCM的异常检测算法)
+- title: Anomaly detection algorithm based on FCM with adaptive artificial fish-swarm (基于自��应人工鱼群FCM的异常检测算泄1�7)
   image: Anomaly.png
   number_image: 1
   description: 
@@ -256,12 +270,12 @@
     url: https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2019.20180099
     display: paper
 
-- title: Immune detector optimized generation algorithm based on locally linear embedding (基于局部线性嵌入的免疫检测器优化生成算法)
+- title: Immune detector optimized generation algorithm based on locally linear embedding (基于屢�部线性嵌入的免疫棢�测器优化生成算法)
   image: None
   number_image: 0
   description: 
   authors: <strong>[Liang Xi](https://mrxiliang.github.io/)</strong>, Tao Jiang, Fengbin Zhang
-  venue: Control and Decision (控制与决策), 2019
+  venue: Control and Decision (控制与决筄1�7), 2019
   number_link: 1
   link1:
     url: http://kzyjc.alljournals.cn/kzyjc/article/abstract/20190517?st=article_issue

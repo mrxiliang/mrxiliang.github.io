@@ -1,4 +1,7 @@
 # encoding: utf-8
+- date: May. 2025
+  headline: Source code release at <a href="https://github.com/mrxiliang/MGTC"> github </a> for our work of "MGTC:Multi-granularity temporal aware time series classification".
+
 - date: Nov. 2024
   headline: Source code release at <a href="https://github.com/eighto6/CoCo"> github </a> for our work of "CoCo:Context correlation discrepancy for graph anomaly detection".
 
